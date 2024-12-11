@@ -47,4 +47,5 @@ CIFAR-10 and CIFAR-100 are popular datasets used for image classification tasks,
 # Conclusion:
 Data augmentation is a crucial strategy in improving the performance of deep learning models on CIFAR-10 and CIFAR-100. By artificially increasing the diversity of training data, augmentation techniques help models generalize better to unseen data. The combination of techniques like cropping, flipping, jittering, and more advanced strategies like mixup can yield substantial improvements in accuracy, particularly when working with more complex datasets like CIFAR-100. These techniques have become standard practice in training robust image classification models.
 
-# ------To see the complete video explanations on this topics, check out the following link:https://youtu.be/z7ZFHTqyCfU?si=m4JN3O1lG_O3BRQt
+
+------To see the complete video explanations on this topics, check out the following link:https://youtu.be/z7ZFHTqyCfU?si=m4JN3O1lG_O3BRQt
